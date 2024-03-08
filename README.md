@@ -29,7 +29,7 @@ As well as BCTextEncoder.exe
 3. Open the .sln file in Visual Studio, make sure x86 and Release is checked, then build.
 4. Ensure `injector.exe` and `PasswordThief.dll` are generated.
 
-5. Or navigate to the respective folders ../Release and get the precompiled binaries
+** Or navigate to the respective folders ../Release and get the precompiled binaries **
 
 
 ## Usage
