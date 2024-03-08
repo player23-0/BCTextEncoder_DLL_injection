@@ -34,10 +34,11 @@ As well as BCTextEncoder.exe
 
 ## Usage
 
-- Usage: injector.exe <FULL_Path_to_DLL> <Process_PID>
-
-BCTextEncoder will spawn two TextEncode.exe processes.
-Either of them could hold the Thread with the plaintext password. So inject into both processes.
+- Usage:  injector.exe  <FULL_Path_to_DLL>  <Process_PID>
+- ie.     injector.exe C:\Users\jdoe\PasswordThief.dll 1337
+- BCTextEncoder will spawn two TextEncode.exe processes.
+- Either of them could hold the Thread with the plaintext password.
+- So inject into BOTH processes.
 
 - After the password has been entered. It will spawn the file in %TEMP%\data.bin
 
