@@ -22,11 +22,6 @@ I have also included debugging tools:
 As well as BCTextEncoder.exe
 
 
-## Warning
-
-This software is intended for educational purposes only. Unauthorized use of these tools to invade privacy or engage in illegal activities strictly goes against the intended use. By using this software, you agree to use it responsibly and ethically.
-
-
 ## Installation
 
 1. Clone this repository to your local machine.
@@ -50,9 +45,15 @@ Either of them could hold the Thread with the plaintext password. So inject into
   
 
 
-
 ## Testing
 This has only been tested on Windows 11, Server 2016, Server 2019
+
+
+
+
+## Warning
+
+This software is intended for educational purposes only. Unauthorized use of these tools to invade privacy or engage in illegal activities strictly goes against the intended use. By using this software, you agree to use it responsibly and ethically.
 
 ## Disclaimer
 
