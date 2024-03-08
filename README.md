@@ -2,9 +2,12 @@
 
 ## Description
 I made this tool after completing the HTB Analysis room.
+
 I took inspiration from these two great repos:
-https://github.com/0x09AL/RdpThief
-https://github.com/milkdevil/injectAllTheThings
+
+- https://github.com/0x09AL/RdpThief
+- https://github.com/milkdevil/injectAllTheThings
+  
 So definitely check them out.
 
 This toolset comprises two main components designed for educational and ethical hacking purposes to demonstrate the process of DLL injection and password retrieval from a running process. 
