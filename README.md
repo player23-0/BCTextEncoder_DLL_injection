@@ -1,0 +1,1 @@
+# BCTextEncoder_DLL_injection
