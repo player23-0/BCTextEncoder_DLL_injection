@@ -34,7 +34,7 @@ As well as BCTextEncoder.exe
 
 ## Usage
 
-- Usage: injector.exe <FULL Path to DLL> <Process_PID>
+- Usage: injector.exe <FULL_Path_to_DLL> <Process_PID>
 
 BCTextEncoder will spawn two TextEncode.exe processes.
 Either of them could hold the Thread with the plaintext password. So inject into both processes.
